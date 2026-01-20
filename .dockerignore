@@ -44,3 +44,5 @@ kiro2api
 
 # Dependencies (will be downloaded during build)
 vendor/
+
+kiro2api.exe

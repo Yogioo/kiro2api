@@ -1,0 +1,1 @@
+go build -o kiro2api.exe main.go
